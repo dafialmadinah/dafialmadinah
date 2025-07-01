@@ -46,6 +46,7 @@ Hi! I am an Information Technology student at Brawijaya University with a strong
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dafialmadinah/dafialmadinah/output/pacman-contribution-graph.svg">
 </picture>
 
+
 ###
 
 ---
@@ -68,6 +69,9 @@ Hi! I am an Information Technology student at Brawijaya University with a strong
 </div>
 
 
+
+
+###
 
 <img src="https://raw.githubusercontent.com/dafialmadinah/dafialmadinah/output/snake.svg" alt="Snake animation" />
 
