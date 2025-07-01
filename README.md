@@ -21,6 +21,7 @@ Hi! I am an Information Technology student at Brawijaya University with a strong
 
 ---
 
+
 ### 🛠️ Technologies & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5" />
@@ -39,8 +40,13 @@ Hi! I am an Information Technology student at Brawijaya University with a strong
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" alt="Flutter" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dafialmadinah/dafialmadinah/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dafialmadinah/dafialmadinah/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dafialmadinah/dafialmadinah/output/pacman-contribution-graph.svg">
+</picture>
 
-
+###
 
 ---
 
@@ -60,3 +66,9 @@ Hi! I am an Information Technology student at Brawijaya University with a strong
 <div align="center">
   <p>Let's create meaningful digital solutions together! 🚀</p>
 </div>
+
+
+
+<img src="https://raw.githubusercontent.com/dafialmadinah/dafialmadinah/output/snake.svg" alt="Snake animation" />
+
+###
