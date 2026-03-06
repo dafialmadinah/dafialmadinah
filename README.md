@@ -9,7 +9,7 @@
 ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝
 ```
 
-### Dafi
+### Muhammad Rizqullah Almadinah
 
 **`Information Technology Student · Frontend Developer · Lifelong Learner`**
 
